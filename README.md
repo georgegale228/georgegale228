@@ -85,7 +85,7 @@ If you are interested in software development, open source, technology communiti
 **Portfolio:** [https://gale.kalamar.tg](https://gale.kalamar.tg/)
 **LinkedIn:** [https://linkedin.com/in/geor-gale](https://www.linkedin.com/in/geor-gale)
 **GitHub:** [https://github.com/georgegale228](https://github.com/georgegale228)
-**GitLab:** [https://github.com/georgegale228](https://gitlab.com/georgegale)
+**GitLab:** https://gitlab.com/georgegale
 **Email:** [georgegale825@gmail.com](mailto:georgegale825@gmail.com)
 
 ---
