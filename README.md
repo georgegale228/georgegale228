@@ -42,7 +42,7 @@ I enjoy turning ideas and real-world problems into reliable software solutions.
 
 ### Frontend
 
-`React` `Next.js` `Vue.js` `Tailwind CSS` `Bootstrap`
+`React` `Next.js` `Alpine.js` `Tailwind CSS` `Bootstrap`
 
 ### Databases
 
@@ -50,7 +50,7 @@ I enjoy turning ideas and real-world problems into reliable software solutions.
 
 ### DevOps & Tools
 
-`Docker` `Git` `GitHub` `Linux` `Nginx`
+`Docker` `Git` `GitHub` `GitLab` `Linux` `Nginx` 
 
 ---
 
