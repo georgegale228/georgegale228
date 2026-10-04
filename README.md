@@ -113,18 +113,6 @@ Workflow       → Git · GitHub · GitLab
 
 ---
 
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/georgegale228">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=georgegale228&repo=syncabuilderhub&theme=transparent&hide_border=true"
-    />
-  </a>
-</p>
-
----
-
 ## Beyond Code
 
 I also enjoy contributing to the developer ecosystem through:
